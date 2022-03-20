@@ -1,16 +1,16 @@
 # **SUMMARY**
 
-![js](https://aws1.discourse-cdn.com/sitepoint/original/3X/b/5/b59a78e2ed76c705f3c0dcb300f3f222aefdcd99.png "JS")
+![js](https://media.proglib.io/wp-uploads/2019/01/CoM-The-Ultimate-Front-End-Development-Bundle-1280x660.jpg "JS")
 
 ## Viktoria Soroka
 
 Junior developer
 
-*+380-63-184-09-70*
-*v.soroka@live.com*
-*Wroclaw, Poland*
+*+380-63-184-09-70*  
+*v.soroka@live.com*  
+*Wroclaw, Poland*  
 
-*GitHub - ViktoryiaSoroka*
+*GitHub - ViktoryiaSoroka*  
 *Discord - VikaSoroka#2836*
 
 ### **About me**
