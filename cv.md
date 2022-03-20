@@ -50,3 +50,9 @@ Russian - Native.
 3. quickly fit into any existing team of developers the ability to work on your own with minimum supervision.
 
 ### **Code example**
+
+```
+function warmup(temperature) {
+   return 9/5*temperature + 32;
+};
+```
