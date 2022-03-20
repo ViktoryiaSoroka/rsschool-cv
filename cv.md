@@ -1,6 +1,6 @@
 # **SUMMARY**
 
-![image](/img/js.jpeg "JS")
+![image](/img/js.png "JS")
 
 ## Viktoria Soroka
 
@@ -18,21 +18,18 @@ I'm an enthusiastic and detail-oriented Novice Frontend-developer. I think that 
 
 ### **Languages**
 
-English - Intermediate (B1).
-Belorussian - Advanced (C1).
-Ukrainian - Upper-Intermediate (B2).
-Polish - Basic.
-Russian - Native.
+- English - Intermediate (B1)
+- Belorussian - Advanced (C1)
+- Ukrainian - Upper-Intermediate (B2)
+- Polish - Basic
+- Russian - Native
 
 ### **Education**
 
-- Belarusian National Technical University | (2007-2013)
-- The Rolling Scopes: «JavaScript/Front-end»
-  [https://rs.school](https://rs.school) | (February 2019)
-- Codacademy  
-  [https://www.codecademy.com/](https://www.codecademy.com/) | (February 2019)
-- The Rolling Scopes: «JavaScript/Front-end. Stage 0»  
-  [https://rs.school/js-stage0/](https://rs.school/js-stage0/)| (December 2021 - March 2022)
+Belarusian National Technical University | (2007-2013)
+The Rolling Scopes: «JavaScript/Front-end» [https://rs.school](https://rs.school) | (February 2019)
+Codacademy [https://www.codecademy.com/](https://www.codecademy.com/) | (February 2019)
+The Rolling Scopes: «JavaScript/Front-end. Stage 0» [https://rs.school/js-stage0/](https://rs.school/js-stage0/)| (December 2021 - March 2022)
 
 ### **Technical skills**
 
