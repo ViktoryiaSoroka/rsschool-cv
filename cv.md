@@ -1,20 +1,17 @@
 # **SUMMARY**
 
-![js](/img/js.png "JS")
+![js](https://aws1.discourse-cdn.com/sitepoint/original/3X/b/5/b59a78e2ed76c705f3c0dcb300f3f222aefdcd99.png "JS")
 
 ## Viktoria Soroka
 
 Junior developer
 
-_+380-63-184-09-70_
-
+*+380-63-184-09-70*
 *v.soroka@live.com*
+*Wroclaw, Poland*
 
-_Wroclaw, Poland_
-
-_GitHub - ViktoryiaSoroka_
-
-_Discord - VikaSoroka#2836_
+*GitHub - ViktoryiaSoroka*
+*Discord - VikaSoroka#2836*
 
 ### **About me**
 
