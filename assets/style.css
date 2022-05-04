@@ -185,19 +185,19 @@ h2 {
 }
 
 .discord_icon {
-    background-image: url('/assets/images/discord.svg');
+    background-image: url('../assets/images/discord.svg');
 }
 
 .phone_icon {
-    background-image: url('/assets/images/phone.svg');
+    background-image: url('../assets/images/phone.svg');
 }
 
 .mail_icon {
-    background-image: url('/assets/images/mail.svg');
+    background-image: url('../assets/images/mail.svg');
 }
 
 .map_icon {
-    background-image: url('/assets/images/map.svg');
+    background-image: url('../assets/images/map.svg');
 }
 
 .icon:hover {
@@ -292,7 +292,7 @@ ol {
     height: 50px;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url('/assets/images/rss.svg');
+    background-image: url('../assets/images/rss.svg');
     transition: .3s;
 }
 
