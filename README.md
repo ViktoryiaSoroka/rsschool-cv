@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://ViktoryiaSoroka.github.io/rsschool-cv/
