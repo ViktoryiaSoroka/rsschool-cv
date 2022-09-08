@@ -6,7 +6,7 @@
 
 Junior developer
 
-*+380-63-184-09-70*  
+*+48-573-247-634*  
 *v.soroka@live.com*  
 *Wroclaw, Poland*  
 
@@ -21,8 +21,8 @@ I'm an enthusiastic and detail-oriented Novice Frontend-developer. I think that 
 
 - English - Intermediate (B1)
 - Belorussian - Advanced (C1)
-- Ukrainian - Upper-Intermediate (B2)
 - Polish - Basic
+- Ukrainian - Basic
 - Russian - Native
 
 ### **Education**
@@ -31,6 +31,7 @@ Belarusian National Technical University | (2007-2013)
 The Rolling Scopes: «JavaScript/Front-end» [https://rs.school](https://rs.school) | (February 2019)
 Codacademy [https://www.codecademy.com/](https://www.codecademy.com/) | (February 2019)
 The Rolling Scopes: «JavaScript/Front-end. Stage 0» [https://rs.school/js-stage0/](https://rs.school/js-stage0/)| (December 2021 - March 2022)
+The Rolling Scopes: «JavaScript/Front-end» [https://rs.school/js/](https://rs.school/js/)| (March 2022 - September 2022)
 
 ### **Technical skills**
 
@@ -40,6 +41,8 @@ The Rolling Scopes: «JavaScript/Front-end. Stage 0» [https://rs.school/js-stag
 - VS Code
 - Git, GitHub
 - Figma
+- Webpack
+- Node.js
 
 ### **Personal qualities**
 
